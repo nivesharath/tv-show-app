@@ -1,0 +1,13 @@
+anyio
+click
+exceptiongroup
+fastapi
+h11
+idna
+joblib
+numpy
+pydantic
+scikit-learn
+scipy
+uvicorn
+pandas
