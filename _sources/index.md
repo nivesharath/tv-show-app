@@ -1,9 +1,7 @@
 # Welcome to your Jupyter Book
+Hello everyone!!
+This Jupyter Book basically shows all the works related to my project of "Move Classification" which aims to predict and classify the Age category of people who see and rate movies. This book holds all the experiments, implementation, visualization and required code as well available in different platforms. I hope it acts as a very interactive user friendly tool for users.
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
 
 Check out the content pages bundled with this sample book to see more.
 
