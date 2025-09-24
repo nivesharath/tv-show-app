@@ -114,8 +114,8 @@ streamlit run frontend/app.py
 - Optimize API for real-time streaming classification.
 
 **Demo**
- 
+
 - [JupyterBook Project Site](https://nivesharath.github.io/tv-show-app/)
 
 - Recorded video walkthrough explaining dataset, ML experiments, and deployment.  
-
+ 
