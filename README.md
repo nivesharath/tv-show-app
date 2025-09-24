@@ -59,19 +59,30 @@ The goal was to design a scalable and reproducible ML pipeline that could be dep
 
 **Repository Structure**
 
-├── notebooks/            # EDA, feature engineering, experiments
+├── proj_files/               # Project artifacts (plots, dataset)
 
-├── src/                  # Core ML pipeline and model scripts
+│   ├── tv_shows.csv
 
-├── api/                  # FastAPI app
+│   ├── f1_score_comparison.png
 
-├── frontend/             # Streamlit app
+│   └── scree_plot.png
 
-├── docker/               # Dockerfiles and configs
+├── Final_project.ipynb        # Main Jupyter Notebook with ML experiments
 
-├── requirements.txt      # Dependencies
+├── app.py                     # FastAPI backend for model serving
 
-└── README.md             # Project 
+├── streamlitapp.py            # Streamlit frontend for real-time predictions
+
+├── final_model.joblib         # Trained ML model
+
+├── Dockerfile                 # Containerization
+
+├── heroku.yaml                # Deployment config
+
+├── requirements.txt           # Dependencies
+
+└── README.md
+
 
 
 **How to Run Locally**
