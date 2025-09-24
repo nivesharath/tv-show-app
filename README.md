@@ -111,10 +111,11 @@ streamlit run frontend/app.py
 
 - Extend deployment with CI/CD pipelines.
 
-Optimize API for real-time streaming classification.
+- Optimize API for real-time streaming classification.
 
-📹 Demo
+**Demo**
+ 
+- [JupyterBook Project Site](https://nivesharath.github.io/tv-show-app/)
 
-JupyterBook Project Site
+- Recorded video walkthrough explaining dataset, ML experiments, and deployment.  
 
-Recorded video walkthrough explaining dataset, ML experiments, and deployment.
